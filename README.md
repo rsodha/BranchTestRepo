@@ -7,6 +7,10 @@
 - Feature 2 development started
 - Feature 2 development is in progress
 - Feature 2 development complete
+## Feature 3
+- Feature 3 development started
+- Feature 3 development is in progress
+- Feature 3 development complete
 ## Feature 4
 - Feature 4 development started
 - Feature 4 development is in progress
