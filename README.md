@@ -15,3 +15,4 @@
 - Feature 4 development started
 - Feature 4 development is in progress
 - Feature 4 development complete
+- Feature 4 bug fix
